@@ -1,5 +1,3 @@
 <template>
-  <div>
-    Freelance
-  </div>
+  <TempMessage />
 </template>
